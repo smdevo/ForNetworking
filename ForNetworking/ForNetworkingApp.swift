@@ -11,7 +11,7 @@ import SwiftUI
 struct ForNetworkingApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainNView()
         }
     }
 }
